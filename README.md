@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmmarellano
 - 👀 I’m interested in GIS and Remote sensing environmental applications.
-- 🌱 I’m currently learning data science techniques.
+- 🌱 I’m currently learning advanced Geoinformatics and data science techniques.
 <!---  - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...   ---!>
 

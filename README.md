@@ -1,8 +1,9 @@
+
 Henlo, its @carla 
 
 50% - in stackoverflow,
 45% - overthinking why my code wont work,
-5%  - writing actual code and making it visually appealing
+5%  - making actual code visually appealing
 
 My research interests are RS and GIS environmental applications 🤹‍♀️🌏
 

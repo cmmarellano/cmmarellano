@@ -1,6 +1,9 @@
-- 👋 Hi, its @cmmarellano
-- ✨ Mostly food and travel ..and pets with attitude
-- 🌱 My research interests are RS and GIS environmental applications. 
+# 👾 Henlo, its @carla
+
+Mostly food, gaming, and travel ..plus memes 
+
+My research interests are RS and GIS environmental applications 🤹‍♀️🌏
+
 
 
 

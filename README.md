@@ -2,7 +2,7 @@
 Henlo, its @carla 
 
 50% - in StackOverflow,
-45% - overthinking why my code wont work,
+45% - overthinking,
 5%  - making actual code visually appealing
 
 My research interests are RS and GIS environmental applications 🤹‍♀️🌏

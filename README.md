@@ -1,7 +1,7 @@
 
 Henlo, its @carla 
 
-50% - in stackoverflow,
+50% - in StackOverflow,
 45% - overthinking why my code wont work,
 5%  - making actual code visually appealing
 

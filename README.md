@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @cmmarellano
-- 👀 I’m interested in GIS and Remote sensing environmental applications.
-- 🌱 I’m currently learning advanced Geoinformatics and data science techniques.
+- 👋 Hi, its @cmmarellano
+- ✨ Mostly food and travel ..and pets with attitude
+- 🌱 My research interests are RS and GIS environmental applications. 
+
+
+
 <!---  - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...   ---!>
 

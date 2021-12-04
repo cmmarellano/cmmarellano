@@ -1,7 +1,7 @@
 
 Henlo, its @carla 
 
-50% - in StackOverflow,
+50% - in search engines,
 45% - overthinking,
 5%  - making actual code visually appealing
 
